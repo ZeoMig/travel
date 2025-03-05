@@ -15,7 +15,7 @@
   
   body {
     font-family: "Lato", sans-serif;
-    background: #f58e8e;
+    background: #000000;
     padding: 100px 60px;
     -webkit-animation: fade-in 3s ease-in-out forwards;
             animation: fade-in 3s ease-in-out forwards;
@@ -234,7 +234,7 @@
 .bar {
     width: 30px;
     height: 4px;
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     margin: 6px 0;
     transition: 0.4s;
 }
