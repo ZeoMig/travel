@@ -109,7 +109,7 @@
     right: 0;
     width: 60vmin;
     height: 100%;
-    background-image: url("imgsxcx
+    background-image: url("img/Gold.jpg");
     background-size: cover;
     transition: 0.3s ease-in-out;
   }
@@ -117,9 +117,9 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 55vmin;
     height: 100%;
-    background-image: url("img/Skwer.jpg");
+    background-image: url("img/Stoyn2.jpg");
     background-size: cover;
     transition: 0.3s ease-in-out;
   }
@@ -127,9 +127,9 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 52vmin;
     height: 100%;
-    background-image: url("img/Skwer.jpg");
+    background-image: url("img/Disney.jpeg");
     background-size: cover;
     transition: 0.3s ease-in-out;
   }
@@ -137,9 +137,9 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 59vmin;
     height: 100%;
-    background-image: url("img/Skwer.jpg");
+    background-image: url("img/66.jpeg");
     background-size: cover;
     transition: 0.3s ease-in-out;
   }
@@ -147,9 +147,9 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 54vmin;
     height: 100%;
-    background-image: url("img/Skwer.jpg");
+    background-image: url("img/Hol.jpeg");
     background-size: cover;
     transition: 0.3s ease-in-out;
   }
