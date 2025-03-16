@@ -97,7 +97,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 53vmin;
     height: 100%;
     background-image: url("img/Piza.jpg");
     background-size: cover;
@@ -107,9 +107,9 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 59vmin;
     height: 100%;
-    background-image: url("img/furari1.jpg");
+    background-image: url("img/tron2.webp");
     background-size: cover;
     transition: 0.3s ease-in-out;
   }
@@ -117,7 +117,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 53vmin;
+    width: 58vmin;
     height: 100%;
     background-image: url("img/vesuvi1.png");
     background-size: cover;
@@ -127,7 +127,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 59vmin;
     height: 100%;
     background-image: url("img/panteon.jpg");
     background-size: cover;
@@ -143,16 +143,7 @@
     background-size: cover;
     transition: 0.3s ease-in-out;
   }
-  .image-content6 {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 54vmin;
-    height: 100%;
-    background-image: url("img/Aby.webp");
-    background-size: cover;
-    transition: 0.3s ease-in-out;
-}
+
   
   .inset {
     max-width: 50%;
@@ -203,7 +194,7 @@
   .wrap:hover .overlay-content {
     border: none;
     transition-delay: 0.2s;
-    transform: translateX(60vmin);
+    transform: translateX(59vmin);
   }
   .wrap:hover .dots {
     transform: translateX(1rem);

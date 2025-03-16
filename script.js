@@ -6,3 +6,7 @@ function toggleMenu() {
         sidebar.style.left = "-250px";
     }
 }
+
+
+
+
