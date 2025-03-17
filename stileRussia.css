@@ -85,7 +85,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 55vmin;
     height: 100%;
     background-image: url("img/redplos1.jpg");
     background-size: cover;
@@ -97,7 +97,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 56vmin;
     height: 100%;
     background-image: url("img/kreml.jpg");
     background-size: cover;
@@ -127,7 +127,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 60vmin;
+    width: 57vmin;
     height: 100%;
     background-image: url("img/elbrus.jpg");
     background-size: cover;
@@ -213,7 +213,7 @@
   .wrap:hover .overlay-content {
     border: none;
     transition-delay: 0.2s;
-    transform: translateX(60vmin);
+    transform: translateX(58vmin);
   }
   .wrap:hover .dots {
     transform: translateX(1rem);
